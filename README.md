@@ -1,4 +1,4 @@
-<div align="center">
+<说明<shjuo'ming<shju<说明：已在hug分列构建了一个Doker镜像（见右侧gcljd软件包），利用huggingface部署两个节点。
 
 # Node-ws
 基于serverless实现的vless+trojan双协议代理,轻量，无内核。
