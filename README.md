@@ -1,4 +1,4 @@
-说明：已在hug分列构建了一个Docker镜像（见右侧gcljd软件包），以便运用huggingface部署两个节点。
+说明：已在此项目hug分列构建了一个Docker镜像（见右侧gcljd软件包），以便运用huggingface部署两个节点。
 
 # Node-ws
 基于serverless实现的vless+trojan双协议代理,轻量，无内核。
